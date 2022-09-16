@@ -5,7 +5,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeito construido do evento Next Level Week (NWL) da Rockeseat.
+Projeto construido do evento Next Level Week (NWL) da Rockeseat.
 
 > [Clique aqui para accesar](https://maycotarrat.github.io/nlw-esports-explorer/)
 
