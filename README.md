@@ -7,7 +7,7 @@
 
 Projeito construido do evento Next Level Week (NWL) da Rockeseat.
 
-[Clique aqui para accesar](htpps://maycotarrat.github.io/nlw-esports-explorer/)
+> [Clique aqui para accesar](htpps://maycotarrat.github.io/nlw-esports-explorer/)
 
 
 ## 🦾 Tecnologias
