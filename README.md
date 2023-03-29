@@ -16,7 +16,7 @@ Projeto construido do evento Next Level Week (NWL) da Rockeseat.
 - CSS
 - Git e GitHub
 
-## ❤Contato❤
+## Contato
 
 > mayco9322@gmail.com 
 
